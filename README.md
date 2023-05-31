@@ -6,8 +6,6 @@ Gainz gymwear is a demo e-commerce website for a fictional gymwear company.
 - User can log in with Google or Email/Password
 - User can add items to cart
 - User can checkout
-- User can view product details
-- User can search for products
 
 ## Built With
 - React.js
