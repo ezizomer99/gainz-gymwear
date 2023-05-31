@@ -11,6 +11,6 @@ Gainz gymwear is a demo e-commerce website for a fictional gymwear company.
 - React.js
 - Node.js
 - Firebase
-- Styled Components
+- SCSS but migrated to Styled Components
 - React Router
 - React Hooks
